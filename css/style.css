@@ -1,2 +1,30 @@
-@import './header.css';
-@import './global.css';
+@import "./global/global.css";
+@import "./global/header.css";
+
+@import "./home/introduction.css";
+
+@import "./utilities/components.css";
+@import "./utilities/typografy.css";
+@import "./utilities/colors.css";
+
+@import "./bikes/bikes-list.css";
+@import "./bike/bike.css";
+
+@import "./technology/technology.css";
+
+@import "./home/partners.css";
+
+@import "./home/testimonial.css";
+
+@import "./insurance/insurance.css";
+
+@import "./footer/footer.css";
+
+@import "./terms/terms.css";
+
+@import "./bikes/bikes.css";
+
+@import "./insurance/benefits.css";
+@import "./insurance/questions.css";
+
+@import "./bike/insurance2.css";
