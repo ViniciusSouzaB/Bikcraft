@@ -5,11 +5,12 @@
   padding: 0px;
   text-decoration: none;
 }
-body {
+/* body {
   padding-bottom: 600px;
-}
+} */
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 ul {
