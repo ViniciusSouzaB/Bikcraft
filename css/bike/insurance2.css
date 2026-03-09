@@ -24,7 +24,7 @@
 .insurance2 p {
   margin-bottom: 20px;
 }
-@media (max-width: 800) {
+@media (max-width: 800px) {
   .insurance2-bg {
     background-color: var(--c11);
     box-shadow: inset 0px -60px var(--c12);
@@ -39,5 +39,8 @@
     grid-row: 1;
     padding-top: 40px;
     padding-bottom: 40px;
+  }
+  .insurance2-image img {
+    display: none;
   }
 }
