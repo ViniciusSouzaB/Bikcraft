@@ -63,3 +63,8 @@
     600 4rem/1.125 "Poppins",
     sans-serif;
 }
+@media (max-width: 600px) {
+  .font-1-xxl {
+    font-size: 32px;
+  }
+}

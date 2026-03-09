@@ -94,3 +94,12 @@
     font-weight: 400;
   }
 }
+@media (max-width: 500px) {
+  .button {
+    padding: 10px 20px;
+    text-transform: lowercase;
+  }
+  textarea {
+    height: 80px;
+  }
+}
